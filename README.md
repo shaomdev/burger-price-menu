@@ -4,4 +4,4 @@
 > Создать панель меню, где пользователь может выбрать компоненты бургера. Некоторые компоненты обязательные,  
 > некоторые можно менять. Вычислить стоимость и калорийность бургера.
 
-Demo - https://omarovfrontend.github.io/burger-price-menu/
+Demo - https://shaomdev.github.io/burger-price-menu/
